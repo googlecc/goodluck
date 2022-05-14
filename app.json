@@ -1,0 +1,22 @@
+{
+    "name": "good",
+    "description": "good",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "e3116d4d-99f8-4c63-99f1-8c5bb821b6c7"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/softbeen/goodluck/",
+    "repository": "https://github.com/softbeen/goodluck",
+    "stack": "container"
+}
